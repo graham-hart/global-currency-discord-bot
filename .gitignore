@@ -1,3 +1,4 @@
 .env
 econ.db
 econ-dev.db
+**/__pycache__
